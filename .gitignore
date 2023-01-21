@@ -42,11 +42,14 @@ build/Release
 node_modules/
 jspm_packages/
 
+Project 1 - Self Service Machine\node_modules
+Project 2 - Working With Forms - Initial\node_modules
+Project 3 - Todo List\node_modules
+Project 4 - Quiz\node_modules
+Project 5 - Shopping\node_modules
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
-
-# TypeScript cache
-*.tsbuildinfo
 
 # Optional npm cache directory
 .npm
